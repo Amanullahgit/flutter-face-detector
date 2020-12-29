@@ -1,16 +1,21 @@
-# face_recognition
+# Flutter Face Detector ML
 
-A new Flutter project.
+This is the source code for Flutter Face Detector ML.<br>
 
-## Getting Started
+## App Features
+- Capture Image Or Select From Gallery.<br>
+- Detecting All Faces In Image And Draw Rect.<br><br>
 
-This project is a starting point for a Flutter application.
+For Step By Step Guide Follow Video Tutorial:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter ML | Flutter Face Detection From Image Complete Tutorial](https://youtu.be/b9v4DqmK2fk)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links used in project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Firebase Core](https://bit.ly/3lSrhDt)
+- [Firebase ML Vision](http://bit.ly/38LkHJo)
+- [Implementations](http://bit.ly/37T4930)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
